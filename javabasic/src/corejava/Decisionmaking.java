@@ -1,4 +1,4 @@
-package javabasic;
+package corejava;
 
 public class Decisionmaking {
 
@@ -13,7 +13,8 @@ public class Decisionmaking {
 			System.out.println("false");
 		}
 
-		if (!(a < b) || (a == b)) {
+		if (!(a < b) || (a == b)) //! reffer to 'not',|| reffer to 'or'
+			{
 			System.out.println("Condition is TRUE");
 		} else
 

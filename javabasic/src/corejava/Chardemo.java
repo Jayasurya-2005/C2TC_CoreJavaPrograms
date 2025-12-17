@@ -1,4 +1,4 @@
-package javabasic;
+package corejava;
 
 public class Chardemo {
 
@@ -8,7 +8,7 @@ public class Chardemo {
 				System.out.println(ch);
 
 				// assigning number to char
-				char ch1 = 65;
+				char ch1 = 65;//A=65
 				System.out.println(ch1);
 
 				// assigning unicode to char

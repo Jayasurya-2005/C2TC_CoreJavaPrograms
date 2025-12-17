@@ -1,4 +1,4 @@
-package javabasic;
+package corejava;
 
 public class Foreachloop {
 
